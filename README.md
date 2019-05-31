@@ -1,5 +1,5 @@
 # rome-tiles
-This repo hosts raster tiles of an 1883 map of Rome. Since the map covers only the geography of central Rome, the tiles are limited to zoom levels 10 through 16. Demo site at http://rci.rutgers.edu/~fg162/serao/. Retrieve tiles in your mapping application at the following URL: https://giannetti.github.io/rome-tiles/{z}/{x}/{y}.png. 
+This repo hosts raster tiles of an 1883 map of Rome. Since the map covers only the geography of central Rome, the tiles are limited to zoom levels 10 through 16. Demo site at https://francescagiannetti.com/serao/. Retrieve tiles in your mapping application at the following URL: https://giannetti.github.io/rome-tiles/{z}/{x}/{y}.png. 
 
 # license
 Tiles may be reused under the [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/legalcode) license. 
